@@ -1,4 +1,4 @@
-### Cep - Create Project Structures ###
+### Cep - Create Structures Project ###
 
 Cep es una herramienta útil para crear la estructura inicial de tus proyectos de manera rápida y sencilla. Con Cep, puedes configurar fácilmente la estructura de directorios y archivos necesarios para distintos tipos de proyectos, ahorrándote tiempo en la organización de tu trabajo.
 
