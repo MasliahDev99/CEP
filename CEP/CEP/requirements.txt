@@ -1,5 +1,0 @@
-argparse
-gpt4all
-openai
-transformer
-setuptools
