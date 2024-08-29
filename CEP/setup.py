@@ -7,7 +7,7 @@ def read_requirements(filename):
         return [line.strip() for line in f if line.strip() and not line.startswith('#')]
 
 setup(
-    name='CEP',
+    name='create_structure_projects',
     version='0.1',
     packages=find_packages(),
     install_requires = read_requirements('requirements.txt'),
