@@ -15,7 +15,7 @@ setup(
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
     author='MasliahDev99',
-    author_email='felipe_dev99@outlook.es',
+    author_email='',
     url='https://github.com/MasliahDev99/CEP',
     classifiers=[
         'Programming Language :: Python :: 3.11',
